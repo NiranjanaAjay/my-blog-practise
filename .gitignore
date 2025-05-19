@@ -4,6 +4,7 @@ Thumbs.db
 
 # Logs
 *.log
+temp.log
 
 # Build artifacts
 dist/
