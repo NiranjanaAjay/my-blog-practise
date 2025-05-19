@@ -1,0 +1,10 @@
+/* Subscribe button styles */
+.subscribe-btn {
+  background: #0077cc;
+  color: pink;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+.subscribe-btn:hover {
+  background: #005fa3;
+}
